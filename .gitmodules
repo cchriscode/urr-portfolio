@@ -1,0 +1,30 @@
+[submodule "urr-frontend"]
+	path = urr-frontend
+	url = https://github.com/KTCloud-TechUp/urr-frontend.git
+[submodule "urr-authService"]
+	path = urr-authService
+	url = https://github.com/KTCloud-TechUp/urr-authService.git
+[submodule "urr-eventService"]
+	path = urr-eventService
+	url = https://github.com/KTCloud-TechUp/urr-eventService.git
+[submodule "urr-ticketService"]
+	path = urr-ticketService
+	url = https://github.com/KTCloud-TechUp/urr-ticketService.git
+[submodule "urr-paymentService"]
+	path = urr-paymentService
+	url = https://github.com/KTCloud-TechUp/urr-paymentService.git
+[submodule "urr-queueService"]
+	path = urr-queueService
+	url = https://github.com/KTCloud-TechUp/urr-queueService.git
+[submodule "urr-communityService"]
+	path = urr-communityService
+	url = https://github.com/KTCloud-TechUp/urr-communityService.git
+[submodule "urr-vwr"]
+	path = urr-vwr
+	url = https://github.com/KTCloud-TechUp/urr-vwr.git
+[submodule "urr-gitops"]
+	path = urr-gitops
+	url = https://github.com/KTCloud-TechUp/urr-gitops.git
+[submodule "urr-macroService"]
+	path = urr-macroService
+	url = https://github.com/KTCloud-TechUp/urr-macroService.git
